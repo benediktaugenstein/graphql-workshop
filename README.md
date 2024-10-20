@@ -423,7 +423,7 @@ After installing the CLI, you need to create a _free_ account [here](https://das
 
     Afterwards, you can test the APIs you created by selecting "Explorer" in the menu on the left. On the top, you can now select your endpoint and specify which data you want to request from it using the Schema on the left (to make this easier, you can select the "Builder" item on the top if it is not yet selected). The Explorer will then automatically create the needed Query. By clicking on the symbol which looks like a Play button, the Query will be executed and the result will be shown on the right.
 
-2. Leave your current directory and create/enter a new one. Clone this GitHub repository using ```git clone https://github.com/benediktaugenstein/graphql-workshop``` or download it as a zip file. After that, switch to the git repository using ```cd graphql-workshop``` and deploy the endpoint defined in this repository. You can deploy it by running ```stepzen start```, which does the same as ```stepzen deploy``` but monitors your local directory for changes and automatically deploys them to the endpoint.
+2. Leave your current directory and create/enter a new one. Clone this GitHub repository using ```git clone https://github.com/benediktaugenstein/graphql-workshop.git``` or download it as a zip file. After that, switch to the git repository using ```cd graphql-workshop``` and deploy the endpoint defined in this repository. You can deploy it by running ```stepzen start```, which does the same as ```stepzen deploy``` but continues to monitor your directory for changes and automatically deploys them to the endpoint if changes are detected.
 
 3. Check the connection to your data source by running the query to get a list of books and their names.
 
