@@ -5,7 +5,7 @@
 <img src="https://d7umqicpi7263.cloudfront.net/img/product/404ac0a4-b577-41f3-94cb-8440d23f414b.png" width="300">
 </p>
 
-Welcome! In this workshop, you'll learn how to use and create GraphQL APIs based on the most popular data sources (REST, MySQL, Postgres, GraphQL) and how to manage and share those APIs using an API Management solution. To solve the exercises, it might be necessary take a look into the documentation of the [IBM GraphQL Server & CLI](https://www.ibm.com/docs/en/api-connect/ace/1.x).
+Welcome! In this workshop, you'll learn how to use and create GraphQL APIs based on the most popular data sources (REST, MySQL, Postgres, GraphQL) and how to manage and share those APIs using an API Management solution. To solve the exercises, it might be necessary to take a look into the documentation of the [IBM GraphQL Server & CLI](https://www.ibm.com/docs/en/api-connect/ace/1.x).
 
 ## Part 1 - Using GraphQL APIs
 
