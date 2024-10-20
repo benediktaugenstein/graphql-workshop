@@ -1,0 +1,7 @@
+# For REST
+schema
+  @sdl(
+    files: ["rest/books.graphql"]
+  ) {
+  query: Query
+}
