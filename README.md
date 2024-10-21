@@ -640,7 +640,7 @@ After installing the CLI, you need to create a _free_ account [here](https://das
 
 In this part, you will use an API Management solution to administer the complete lifecycle of your API. Using such a tool, you can easily create, manage, secure, socialize and monetize APIs. 
 
-1. Go to the following link and sign in as either user1 or user3 and the password "passw0rd" using the "API Manager user registry":
+1. Go to the following link and sign in as either user1, user3 or user4 and the password "passw0rd" using the "API Manager user registry":
   https://small-mgmt-api-manager-integration.apps.670915d2dd88d89307362840.ocp.techzone.ibm.com/manager/
 
 2. Click on "Develop APIs and products". Click "Add"->"API" to create a new API. Import your newly created API as a GraphQL proxy by providing the needed information. Leave the configurations as they are except for "Secure using Cliend ID", which you can unselect.
